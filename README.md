@@ -34,29 +34,9 @@ Everything stays local to your browser — your answers never leave your device.
 - 🖥️ **Express** — a backend server is scaffolded in the project for potential future features (not currently active)
 - 🗄️ **Drizzle ORM** — set up for potential future database integration (no live database connected yet)
 
+### ☁️ Deployment
 
-## 📦 Local Development
+Deployed on Vercel, built with Vite and served as a static single-page app. 🚀
 
-To run this project locally on your machine:
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/muhammedham/cv-forge.git](https://github.com/muhammedham/cv-forge.git)
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    cd cv-forge
-    npm install
-    ```
-
-3.  **Start the development server:**
-    ```bash
-    npm run dev
-    ```
-
-4.  **Open in your browser:**
-    Navigate to `http://localhost:5173`
-
----
 *Built by [Muhammed Hamadin](https://github.com/muhammedham)*
