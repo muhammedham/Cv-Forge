@@ -2,7 +2,7 @@
 
 > A modern, lightning-fast, and accessible resume builder that generates professional, single-page PDF resumes directly from the browser.
 ## TO TRY IT 
-**Live Demo:** [Click here to build your CV](https://cv-forge-weld.vercel.app/#/)
+**Live Demo:** [Click here to build your CV]([https://cv-forge-weld.vercel.app/#/](https://cv-forge-2r44-hl3onir8a-muhammedham1.vercel.app))
 
 ![CV Forge Preview](SS1.png)
 ![CV Forge Preview](SS2.png)
